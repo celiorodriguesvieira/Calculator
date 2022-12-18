@@ -1,0 +1,10 @@
+.display {
+  grid-column: span 4;
+  background-color: rgb(49, 43, 38);
+
+  display: flex;
+  justify-content: flex-end; /*Go Right*/
+  align-self: start;
+  padding: 20px;
+  font-size: 2.1em;
+}
